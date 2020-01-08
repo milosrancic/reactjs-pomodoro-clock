@@ -5,6 +5,10 @@ This project is part of [freeCodeCamp](https://www.freecodecamp.org/) Front End 
 ## View project
 https://milosrancic.github.io/reactjs-pomodoro-clock/
 
+### Screenshot 
+
+[![Pomodoro-Clock.png](https://i.postimg.cc/L8mqFtpV/Pomodoro-Clock.png)](https://postimg.cc/kBhMxtDV)
+
 ### Technologies
 HTML5, CSS3, Bootstrap, JavaScript, ReactJS
 
